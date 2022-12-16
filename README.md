@@ -4,7 +4,7 @@ This project is about image manipulation using numpy, images are commonly used t
 
 
 
-# Summary of the steps
+# Summary of the Process
 
 The image was imported using both PIL and Matplotlib
 
