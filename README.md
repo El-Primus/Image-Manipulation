@@ -14,6 +14,6 @@ To manipulate the image, mathematical calculations were carried out on the image
 
 It was multiplied by an integer and an array, this changed the image resolution
 
-TO convert the image back to jpg file. the fromarray method was used
+To convert the image back to jpg file. the fromarray method was used
 
 This project shows that images are made up of numbers, and a slight alteration of the numbers will change the image.
