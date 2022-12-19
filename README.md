@@ -6,7 +6,7 @@ This project is about image manipulation using numpy, images are commonly used t
 
 # Summary of the Process
 
-The image was imported using both PIL and Matplotlib
+The image was imported using both PIL and Matplotlib (Using Matplotlib is better because it is easy to set the height and width of the image)
 
 The imported image was then converted to a numpy array using asarray method
 
